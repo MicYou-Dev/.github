@@ -12,3 +12,23 @@
    <a href="https://micyou.top">
     <img alt="Offical Website" src="https://img.shields.io/badge/Offical%20Website-micyou.top-2CA5E0"></a>
 </div>
+
+---
+
+<h1>Our Products</h1>
+<div>
+  <h2>
+    <a href="https://github.com/LanRhyme/MicYou">MicYou</a> <- Click to Visit
+  </h2>
+  A powerful tool that turns your Android device into a high-quality microphone for your PC. 
+
+  <details><summary><h3>Star History</h3></summary>
+  <a href="https://www.star-history.com/#LanRhyme/MicYou&type=date&legend=top-left">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LanRhyme/MicYou&type=date&theme=dark&legend=top-left" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LanRhyme/MicYou&type=date&legend=top-left" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LanRhyme/MicYou&type=date&legend=top-left" />
+   </picture>
+  </a>
+  </details>
+</div>
